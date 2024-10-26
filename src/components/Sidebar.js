@@ -21,7 +21,7 @@ const Sidebar = () => {
     },
     {
       icon: <MdSubscriptions className="tex-xl"/>,
-      name: "Subscription",
+      name: "Subscription ",
     },
   ];
 
